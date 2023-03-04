@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(64, 3, 3);
+    background-attachment: fixed;
+    font: size 40px;
+}
+
+p, li {color: rgb(131, 36, 36);
+
+}
+li {
+    list-style-type: upper-roman;
+}
+
+li em {
+  color: rgb(0, 26, 255);
+}
